@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:{"currencyCode":"USD","depart":["Depart ",["departDate"]," at ",["departTime"]],"transitFare":["Transit fare: ",["fare"]],"walkDistance":["Walk ",["dist"]],"distanceUnit":"mile"}};
